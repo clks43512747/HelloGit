@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175452db-e4d6-4e64-b1e6-0d740c09663e" name="Default Changelist" comment="" />
+    <list default="true" id="175452db-e4d6-4e64-b1e6-0d740c09663e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shzu/git/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shzu/git/HelloGit.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,13 +12,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="E:/bonc/code/bookstore-service-broker-master" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,6 +26,7 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1eMQ9AnvSVHlYRyxw7FQ3nJ4fh6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,6 +71,16 @@
       <workItem from="1594128837709" duration="6000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1594128940923">
